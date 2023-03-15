@@ -1,4 +1,4 @@
-# Drum-Kit
+# Drum-Kit 🥁
 
 Drum kit is a beginner friendly project that allows you to play drums on the browser.
 
